@@ -1,0 +1,25 @@
+.error {
+    width: 100%;
+    min-height: 300px;
+    background-color: #2b3137;
+    padding: 2rem;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+
+.error svg {
+    fill: red;
+    font-size: clamp(50px, 4vw, 75px);
+}
+
+@media (min-width: 800px) {
+    .error {
+        width: 50%;
+        min-height: 500px;
+    }
+}
