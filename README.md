@@ -1,6 +1,6 @@
 # GitHub User Finder
 
-An application designed to provide GitHub users information, built using React (JavaScript, HTML and CSS) + TypeScript.
+A front-end application designed to provide GitHub users information, built using React (JavaScript, HTML, and CSS) + TypeScript.
 
 ## Live Link
 
